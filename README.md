@@ -4,16 +4,6 @@ Este é um sistema de contatos simples desenvolvido em PHP utilizando o framewor
 
 # Tecnologias Utilizadas
 
-## Tabela de Conteúdos
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos](#requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-- [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Autor](#autor)
 Back-End: PHP 8.1.12 com Laravel.
 
 Front-End: HTML, CSS.
@@ -25,26 +15,6 @@ Gerenciador de Pacotes: Composer 2.4.4
 ## Requisitos
 
 Certifique-se de que o seu ambiente atenda aos seguintes requisitos antes de executar o projeto:
-## Tabela de Conteúdos
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos](#requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-## Tabela de Conteúdos
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos](#requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-- [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Autor](#autor)
-- [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Autor](#autor)
 
 -   PHP 8.1.12 ou uma versão mais recente
 -   Composer 2.4.4 ou uma versão mais recente
@@ -69,16 +39,7 @@ Stop generating
 
 5. Abra o terminal no VSCode e navegue até a pasta do projeto usando o comando:
 
-## Tabela de Conteúdos
 
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos](#requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-- [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Autor](#autor)
 ```json
 cd SeuDiretorio/Project-Test-Magazord-PHP
 ```
@@ -114,27 +75,12 @@ php artisan serve
 Este projeto foi desenvolvido utilizando o framework Laravel, que segue o padrão MVC (Model-View-Controller) para uma organização eficiente do código.
 
 O back-end foi construído em PHP, com a utilização do Composer como gerenciador de pacotes para facilitar a gestão das dependências.
-## Tabela de Conteúdos
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos](#requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-- [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Autor](#autor)
 
 O front-end foi desenvolvido com HTML e CSS básico para uma interface simples e amigável.
 
 ### Autor
 
 Desenvolvido por Reinaldo Flaviano
-
-### Obrigado por visitar meu repositório!
-
-
-
 ## Tabela de Conteúdos
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -145,4 +91,8 @@ Desenvolvido por Reinaldo Flaviano
 - [Funcionalidades](#funcionalidades)
 - [Licença](#licença)
 - [Autor](#autor)
+
+### Obrigado por visitar meu repositório!
+
+
 
