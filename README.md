@@ -8,7 +8,7 @@ Este é um sistema de contatos simples desenvolvido em PHP utilizando o framewor
 - [Requisitos](#requisitos)
 - [Configuração do Projeto](#configuração-do-projeto)
 - [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)Como Executar
+- [Como Executar](#como-executar)
 - [Funcionalidades](#funcionalidades)
 - [Licença](#licença)
 - [Autor](#autor)
