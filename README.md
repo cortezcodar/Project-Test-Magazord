@@ -4,9 +4,12 @@ Este é um sistema de contatos simples desenvolvido em PHP utilizando o framewor
 
 # Tecnologias Utilizadas
 
-Back-End: PHP 8.1.12 com Laravel
-Front-End: HTML, CSS
-Banco de Dados: MySQL 8.0.31
+Back-End: PHP 8.1.12 com Laravel.
+
+Front-End: HTML, CSS.
+
+Banco de Dados: MySQL 8.0.31.
+
 Gerenciador de Pacotes: Composer 2.4.4
 
 ## Requisitos
