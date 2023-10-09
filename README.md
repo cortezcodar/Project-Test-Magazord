@@ -42,7 +42,8 @@ cd SeuDiretorio/Project-Test-Magazord-PHP
 
 6. Execute o comando para instalar as dependências do Composer:
 
-```composer install
+```
+composer install
 
 ```
 
