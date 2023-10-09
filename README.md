@@ -59,7 +59,8 @@ php artisan key:generate
 8. Execute as migrações do banco de dados com o comando:
 
 ```
-php artisan migrate
+php artisan migrate### Obrigado por visitar meu repositório!
+
 ```
 
 9. Inicie o servidor de desenvolvimento com o comando:
@@ -79,4 +80,6 @@ O front-end foi desenvolvido com HTML e CSS básico para uma interface simples e
 ### Autor
 
 Desenvolvido por Reinaldo Flaviano
-Aproveite o projeto e sinta-se à vontade para personalizá-lo e usá-lo como base para seus próprios desenvolvimentos!
+
+### Obrigado por visitar meu repositório!
+
