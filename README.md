@@ -8,7 +8,7 @@ Este é um sistema de contatos simples desenvolvido em PHP utilizando o framewor
 - [Requisitos](#requisitos)
 - [Configuração do Projeto](#configuração-do-projeto)
 - [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
+- [Como Executar](#como-executar)Como Executar
 - [Funcionalidades](#funcionalidades)
 - [Licença](#licença)
 - [Autor](#autor)
@@ -57,6 +57,7 @@ Siga os passos abaixo para configurar o projeto em seu ambiente:
 ```json
 cd SeuDiretorio/Project-Test-Magazord-PHP
 ```
+## Como Executar
 
 6. Execute o comando para instalar as dependências do Composer:
 
@@ -124,18 +125,10 @@ Aqui está uma breve descrição de cada pasta na estrutura de diretórios do pr
 
 `Exclusão de Contatos`: Os usuários podem excluir registros de contatos.## Tabela de Conteúdos
 
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Requisitos](#requisitos)
-- [Configuração do Projeto](#configuração-do-projeto)
-- [Estrutura de Diretórios](#estrutura-de-diretórios)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Autor](#autor)
 
 ### Desenvolvimento
 
-Este projeto foi desenvolvido utilizando o framework Laravel, que segue o padrão MVC (Model-View-Controller) para uma organização eficiente do código.
+Este projeto foi desenvolvido utilizando o framework Laravel, que segue o padrão MVC (Model-View-Como ExecutarController) para uma organização eficiente do código.
 
 O back-end foi construído em PHP, com a utilização do Composer como gerenciador de pacotes para facilitar a gestão das dependências.
 
